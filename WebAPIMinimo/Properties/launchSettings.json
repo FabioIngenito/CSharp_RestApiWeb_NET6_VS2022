@@ -1,0 +1,41 @@
+﻿// SE NÃO QUISER QUE O BROWSER INICIE, COMENTE ou COLOQUE COMO FALSE 
+// ESTAS LINHAS COMENTADAS ABAIXO:
+// ---------------------------------------------------------
+//"dotnetRunMessages": false,
+//"launchBrowser": false,
+//"launchUrl": "swagger",
+// ---------------------------------------------------------
+//"launchBrowser": false,
+//"launchUrl": "swagger",
+// ---------------------------------------------------------
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:19408",
+      "sslPort": 44328
+    }
+  },
+  "profiles": {
+    "WebAPIMinimo": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7085;http://localhost:5085",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
