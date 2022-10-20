@@ -1,5 +1,21 @@
+<h1 align="left">REST API</h1>
+
+- Este projeto é uma somatória de videos que eu assiti e tentei juntar tudo em
+um projeto só. Guardei todos os vídeos dentro de cometários no topo dos arquivos
+caso você queira assistí-los e até comparar as modificações que eu fiz.
+
+<ul>
+  <li>🪧 Vitrine.Dev</li>
+  <li>✨ Nome	CSharp_RestApiWeb_NET6_VS2022</li>
+  <li>🏷️ Tecnologias	C# TSQL</li>
+</ul>
+
+<img src="https://user-images.githubusercontent.com/24603753/197006949-f14f9770-e614-42f9-8371-3ed105d32d3a.png#vitrinedev" alt="RESP API" />
+
+<h2 align="left">Detalhes do projeto</h2>
+
 REST API
-Web API Mínimo - C# Framework .Net 6 - Visual Studio 2022
+Web API Minimo - C# Framework .Net 6 - Visual Studio 2022
 
 - Este projeto é uma somatória de videos que eu assiti e tentei juntar tudo em
 um projeto só. Guardei todos os vídeos dentro de cometários no topo dos arquivos
