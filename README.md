@@ -4,11 +4,11 @@
 um projeto só. Guardei todos os vídeos dentro de cometários no topo dos arquivos
 caso você queira assistí-los e até comparar as modificações que eu fiz.
 
-<ul>
-  <li>🪧 Vitrine.Dev</li>
-  <li>✨ Nome	CSharp_RestApiWeb_NET6_VS2022</li>
-  <li>🏷️ Tecnologias	C# TSQL</li>
-</ul>
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **CSharp_RestApiWeb_NET6_VS2022**
+| :label: Tecnologias | C#, TSQ
 
 <img src="https://user-images.githubusercontent.com/24603753/197006949-f14f9770-e614-42f9-8371-3ed105d32d3a.png#vitrinedev" alt="RESP API" />
 
