@@ -8,7 +8,7 @@ caso você queira assistí-los e até comparar as modificações que eu fiz.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **CSharp_RestApiWeb_NET6_VS2022**
-| :label: Tecnologias | C#, TSQ
+| :label: Tecnologias | C#, TSQL
 
 <img src="https://user-images.githubusercontent.com/24603753/197006949-f14f9770-e614-42f9-8371-3ed105d32d3a.png#vitrinedev" alt="RESP API" />
 
