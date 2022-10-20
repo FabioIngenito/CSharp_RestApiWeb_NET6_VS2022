@@ -1,5 +1,5 @@
 REST API
-Web API Minimo - C# Framework .Net 6 - Visual Studio 2022
+Web API Mínimo - C# Framework .Net 6 - Visual Studio 2022
 
 - Este projeto é uma somatória de videos que eu assiti e tentei juntar tudo em
 um projeto só. Guardei todos os vídeos dentro de cometários no topo dos arquivos
